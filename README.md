@@ -9,6 +9,7 @@ I spent four years at Google building the MLOps serving infrastructure that powe
 ### What I'm working on
 
 - **ML governance tooling** — lightweight compliance-aware MLOps tooling for regulated industries
+- **Applied ML and AI** - getting my hands dirty with MLFlow pipelines
 
 ### Core stack
 
